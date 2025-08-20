@@ -1,4 +1,4 @@
 # Gowtham_demo
 This is my first Git repository
 <br>
-Author - Gowtham
+Author - Gowtham (CIt college)
